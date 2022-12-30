@@ -1,0 +1,15 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+.Notifications{
+    width: 30%;
+    border: 2px black solid;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 20%;
+}
